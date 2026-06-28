@@ -14,16 +14,10 @@ It is created for learning, practice, and interview preparation.
 * Stacks
 * Queues
 * Trees
-* Graphs
 * Hashing (Linear Probing, Quadratic Probing, Chaining)
-
-### 🔹 Algorithms
-
 * Searching (Linear Search, Binary Search)
 * Sorting (Bubble, Selection, Insertion, Merge, Quick Sort)
 * Recursion
-* Backtracking (Basics)
-* Greedy Algorithms (Basics)
 
 ---
 
@@ -31,23 +25,6 @@ It is created for learning, practice, and interview preparation.
 
 * C++
 
----
-
-## 📂 Folder Structure
-
-```
-DSA/
- ├── Arrays/
- ├── LinkedList/
- ├── Stack/
- ├── Queue/
- ├── Trees/
- ├── Graph/
- ├── Hashing/
- └── Sorting/
-```
-
----
 
 ## 🧠 Purpose of This Repository
 
